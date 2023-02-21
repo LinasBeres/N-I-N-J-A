@@ -1,0 +1,13 @@
+{
+	"Tire Pressure":
+	{
+		"PSI": [28, 32],
+		"kPa": [200, 225]
+	},
+	"Chain": 1000,
+	"Chain Lube": 600,
+	"Minor Service": 1200,
+	"Major Service": 2400,
+	"Oil Change": 6000,
+	"Units": "kilometers"
+}
